@@ -5,7 +5,7 @@
     "buildCommand": "npm install && npm run build"
   },
   "deploy": {
-    "startCommand": "npm start",
+    "startCommand": "bash -c \"sed -i 's/import.meta.dirname/process.cwd()/g' dist/index.js && NODE_ENV=production node dist/index.js\"",
     "healthcheckPath": "/",
     "healthcheckTimeout": 300,
     "restartPolicyType": "ON_FAILURE",
