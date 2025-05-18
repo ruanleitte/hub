@@ -41,7 +41,7 @@ export const translations: TranslationsType = {
     about: {
       title: 'SOBRE MIM',
       jobTitle: 'Analista de Planejamento e Desenvolvedor Web',
-      description: 'Sou um profissional multidisciplinar, combinando experiência em planejamento estratégico e logística com habilidades em desenvolvimento web. Minha trajetória profissional inclui empresas como Mills, Stone e GOL Linhas Aéreas, onde desenvolvi competências em gestão, análise de processos e soluções tecnológicas.',
+      description: 'Sou um profissional multidisciplinar que alia pensamento estratégico a habilidades práticas para entregar resultados concretos. Minha atuação combina análise detalhada de processos, planejamento eficiente e desenvolvimento de soluções integradas, criando sinergia entre todas as áreas da operação.\n\nCom forte orientação para a inovação e melhoria contínua, busco entender e otimizar cada etapa do negócio, desde o colaborador na linha de frente até a alta direção. Minha experiência me permite transitar com facilidade entre os diferentes níveis da organização, facilitando a comunicação entre equipes e impulsionando a execução de projetos complexos.\n\nSou movido por desafios que exigem criatividade e pragmatismo, valorizando a atuação hands-on e o aprendizado constante. Acredito que a combinação de estratégia bem definida e ação prática é o caminho para transformar ideias em soluções efetivas e duradouras.\n\nMeu foco está em contribuir para o crescimento sustentável e a excelência operacional, sempre com uma postura proativa, colaborativa e orientada para resultados.',
       planning: 'Planejamento',
       webDevelopment: 'Desenvolvimento Web',
       logistics: 'Logística',
@@ -147,7 +147,7 @@ export const translations: TranslationsType = {
     about: {
       title: 'ABOUT ME',
       jobTitle: 'Planning Analyst and Web Developer',
-      description: 'I am a multidisciplinary professional, combining experience in strategic planning and logistics with web development skills. My professional journey includes companies like Mills, Stone, and GOL Airlines, where I developed competencies in management, process analysis, and technological solutions.',
+      description: 'I am a multidisciplinary professional who combines strategic thinking with practical skills to deliver tangible results. My work involves detailed process analysis, efficient planning, and the development of integrated solutions, creating synergy across all operational areas.\n\nWith a strong focus on innovation and continuous improvement, I strive to understand and optimize every stage of the business from frontline workers to top management. My experience allows me to navigate easily between different organizational levels, facilitating communication among teams and driving the execution of complex projects.\n\nI am motivated by challenges that require creativity and pragmatism, valuing hands-on action and continuous learning. I believe that a well-defined strategy combined with practical execution is the path to turning ideas into effective and lasting solutions.\n\nMy focus is on contributing to sustainable growth and operational excellence with a proactive, collaborative, and results-oriented approach.',
       planning: 'Planning',
       webDevelopment: 'Web Development',
       logistics: 'Logistics',
@@ -253,7 +253,7 @@ export const translations: TranslationsType = {
     about: {
       title: 'SOBRE MÍ',
       jobTitle: 'Analista de Planificación y Desarrollador Web',
-      description: 'Soy un profesional multidisciplinario, combinando experiencia en planificación estratégica y logística con habilidades en desarrollo web. Mi trayectoria profesional incluye empresas como Mills, Stone y GOL Aerolíneas, donde desarrollé competencias en gestión, análisis de procesos y soluciones tecnológicas.',
+      description: 'Soy un profesional multidisciplinar que combina pensamiento estratégico con habilidades prácticas para entregar resultados concretos. Mi trabajo incluye análisis detallado de procesos, planificación eficiente y desarrollo de soluciones integradas, creando sinergia en todas las áreas operativas.\n\nCon un fuerte enfoque en la innovación y la mejora continua, busco entender y optimizar cada etapa del negocio, desde los trabajadores en primera línea hasta la alta dirección. Mi experiencia me permite moverme con facilidad entre los diferentes niveles de la organización, facilitando la comunicación entre equipos y promoviendo la ejecución de proyectos complejos.\n\nMe motivan los desafíos que requieren creatividad y pragmatismo, valorando la acción práctica y el aprendizaje constante. Creo que una estrategia bien definida combinada con una ejecución práctica es el camino para convertir ideas en soluciones efectivas y duraderas.\n\nMi enfoque está en contribuir al crecimiento sostenible y a la excelencia operativa con una actitud proactiva, colaborativa y orientada a resultados.',
       planning: 'Planificación',
       webDevelopment: 'Desarrollo Web',
       logistics: 'Logística',
