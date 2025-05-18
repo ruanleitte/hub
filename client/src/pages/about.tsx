@@ -75,13 +75,7 @@ export default function About() {
                   ))}
                 </div>
                 
-                {/* Tags de habilidades - com cores diferentes */}
-                <div className="flex flex-wrap gap-2">
-                  <span className="px-4 py-1.5 bg-blue-500/10 text-blue-700 rounded-full text-sm font-medium border border-blue-200">{t('about.planning')}</span>
-                  <span className="px-4 py-1.5 bg-purple-500/10 text-purple-700 rounded-full text-sm font-medium border border-purple-200">{t('about.webDevelopment')}</span>
-                  <span className="px-4 py-1.5 bg-green-500/10 text-green-700 rounded-full text-sm font-medium border border-green-200">{t('about.logistics')}</span>
-                  <span className="px-4 py-1.5 bg-amber-500/10 text-amber-700 rounded-full text-sm font-medium border border-amber-200">{t('about.processManagement')}</span>
-                </div>
+
               </div>
             </div>
           </CardContent>

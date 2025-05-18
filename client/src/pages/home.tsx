@@ -68,7 +68,7 @@ export default function Home() {
               </h2>
             </div>
             
-            <p className="text-muted-foreground text-sm md:text-base">
+            <p className="text-muted-foreground text-sm md:text-base text-justify">
               {t('home.intro')}
             </p>
             
