@@ -67,9 +67,13 @@ export default function About() {
                   {t('about.jobTitle')}
                 </h2>
                 
-                <p className="text-gray-700 mb-6 leading-relaxed">
-                  {t('about.description')}
-                </p>
+                <div className="text-gray-700 mb-6 leading-relaxed text-justify">
+                  {t('about.description').split('\n\n').map((paragraph, index) => (
+                    <p key={index} className={index > 0 ? 'mt-4' : ''}>
+                      {paragraph}
+                    </p>
+                  ))}
+                </div>
                 
                 {/* Tags de habilidades - com cores diferentes */}
                 <div className="flex flex-wrap gap-2">
